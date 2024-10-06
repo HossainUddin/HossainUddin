@@ -1,5 +1,4 @@
-![alt text]([http://url/to/img.png](https://imgur.com/xcrwSZk))
-
+<img src="https://imgur.com/xcrwSZk">
 
 # Hello, I'm Hossain Uddin Ahamad 👋
 
