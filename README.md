@@ -8,9 +8,9 @@ I’m a passionate **Web Developer** and **T-Shirt Designer** with a flair for c
 
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js
 - **Design:** Photoshop, Figma, Canva
-- **Video Editing:** Filmora9 Video Editor, CapCut
-- **Programming:** JavaScript
-- **Tools:** Microsoft To Do, Git, GitHub, VS Code, Adobe Photoshop
+- **Video Editing:** Filmora, CapCut
+- **Programming Language:** JavaScript
+- **Tools:** Microsoft To Do, Git, GitHub, VS Code, Sublime Text, Adobe Photoshop, Notion, Chatgpt, Microsoft excel, Microsoft word 
 
 ### 🖥️ Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
