@@ -4,12 +4,6 @@
 
 I’m a passionate **Web Developer** and **T-Shirt Designer** with a flair for creativity and a strong focus on functionality. With experience in **graphic design**, **video editing**, and an ongoing journey in **commerce studies**, I combine technical expertise with artistic expression.
 
-### 🖥️ Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 ## 🔧 Technologies & Tools
 
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js
@@ -17,6 +11,19 @@ I’m a passionate **Web Developer** and **T-Shirt Designer** with a flair for c
 - **Video Editing:** Filmora9 Video Editor, CapCut
 - **Programming:** JavaScript
 - **Tools:** Microsoft To Do, Git, GitHub, VS Code, Adobe Photoshop
+
+### 🖥️ Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🎨 Design & Video Editing
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
 
 ## 🎮 Gaming Enthusiast
 
