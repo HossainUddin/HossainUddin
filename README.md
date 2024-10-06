@@ -28,7 +28,7 @@ When I'm not coding or designing, you can find me immersed in the gaming world. 
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/hossain-uddin-805a872ba/))
+- **LinkedIn**: [[Your LinkedIn Profile]()](https://www.linkedin.com/in/hossain-uddin-805a872ba/)
 - **Facebook**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 - **Youtube**: [Your Portfolio](https://your-portfolio.com)
 
