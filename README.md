@@ -1,4 +1,4 @@
-![alt text]([https://imgur.com/undefined](https://imgur.com/xcrwSZk))
+![alt text] https://imgur.com/xcrwSZk
 
 # Hello, I'm Hossain Uddin Ahamad 👋
 
