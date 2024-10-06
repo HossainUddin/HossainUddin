@@ -36,11 +36,9 @@ I’m a passionate **Web Developer** and **T-Shirt Designer** with a flair for c
 
 ## 📊 GitHub Stats & Activity
 
-![Hossain's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=4&layout=compact&theme=radical&hide=scss,php)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=HossainUddin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HossainUddin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HossainUddin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
