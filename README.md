@@ -32,6 +32,5 @@ When I'm not coding or designing, you can find me immersed in the gaming world. 
 
 - **LinkedIn**: https://www.linkedin.com/in/hossain-uddin-805a872ba
 - **Facebook**: https://www.facebook.com/md.reyaan.399/
-- **Youtube**: https://www.youtube.com/@reyanplays
 
 Thanks for visiting my profile! Feel free to reach out for collaboration, or just to say hi. 😊
