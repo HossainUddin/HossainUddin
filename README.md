@@ -38,12 +38,15 @@ I’m a passionate **Web Developer** and **T-Shirt Designer** with a flair for c
 
 ![Hossain's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=4&layout=compact&theme=radical&hide=scss,php)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true)
 
+---
+
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
+
 
 
 ## 🎮 Gaming Enthusiast
