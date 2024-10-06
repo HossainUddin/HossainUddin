@@ -34,4 +34,18 @@ When I'm not coding or designing, you can find me immersed in the gaming world. 
 - **Facebook**: https://www.facebook.com/md.reyaan.399/
 - **Email**: hossenuddin6@gmail.com
 
+
+### 🖥️ Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
+
+
+
+
+
+
 Thanks for visiting my profile! Feel free to reach out for collaboration, or just to say hi. 😊
