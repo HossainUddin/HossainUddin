@@ -25,6 +25,8 @@ I’m a passionate **Web Developer** and **T-Shirt Designer** with a flair for c
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Filmora9](https://img.shields.io/badge/Filmora9-01BCE4?style=for-the-badge&logo=filmora&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 ### 🛠 Tools & IDEs
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
