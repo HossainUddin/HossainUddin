@@ -10,7 +10,7 @@ I’m a passionate **Web Developer** and **T-Shirt Designer** with a flair for c
 
 - **Front-End Development Focus**: With a solid command of **HTML**, **CSS**, **JavaScript**, and **front-end frameworks** like **TailwindCSS** and **Bootstrap**, I create visually engaging and user-friendly websites optimized for performance and accessibility.
 
-- **Graphic & Video Design Mastery**: From stunning visuals to high-quality video edits, I utilize top tools like **Adobe Photoshop**, **Illustrator**, **Canva**, **Filmora9**, and **CapCut** to deliver impactful content that resonates with audiences.
+- **Graphic & Video Design Mastery**: From stunning visuals to high-quality video edits, I utilize top tools like **Adobe Photoshop**, **Canva**, **Filmora9**, and **CapCut** to deliver impactful content that resonates with audiences.
 
 - **Reliable and Committed**: I am dedicated to delivering high-quality work on time, paying close attention to detail and ensuring the success of every project I undertake. You can count on me for consistent communication and results-driven performance.
 
