@@ -1,3 +1,5 @@
+![alt text](https://imgur.com/undefined)
+
 # Hello, I'm Hossain Uddin Ahamad 👋
 
 I’m a passionate **Web Developer** and **T-Shirt Designer** with a flair for creativity and a strong focus on functionality. With experience in **graphic design**, **video editing**, and an ongoing journey in **commerce studies**, I combine technical expertise with artistic expression.
