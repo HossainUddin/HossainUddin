@@ -42,6 +42,8 @@ I’m a passionate **Web Developer** and **T-Shirt Designer** with a flair for c
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true)
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
 
 
 ## 🎮 Gaming Enthusiast
