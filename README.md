@@ -1,4 +1,5 @@
-![alt text] https://imgur.com/xcrwSZk
+![alt text]([http://url/to/img.png](https://imgur.com/xcrwSZk))
+
 
 # Hello, I'm Hossain Uddin Ahamad 👋
 
