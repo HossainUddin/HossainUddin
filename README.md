@@ -1,4 +1,4 @@
-<img src="https://imgur.com/xcrwSZk">
+<img src="[https://imgur.com/xcrwSZk](https://i.imgur.com/xcrwSZk.png)">
 
 # Hello, I'm Hossain Uddin Ahamad 👋
 
