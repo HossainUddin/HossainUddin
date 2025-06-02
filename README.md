@@ -82,7 +82,7 @@ When I'm not coding or designing, you can find me immersed in the gaming world. 
 
 ## 📫 Get in Touch
 
-- **Email**: hossenuddin6@gmail.com
+- **Email**: hossainuddinahamad@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/hossain-uddin-805a872ba
 - **Facebook**: https://www.facebook.com/md.reyaan.399/
 
