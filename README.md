@@ -84,7 +84,7 @@ When I'm not coding or designing, you can find me immersed in the gaming world. 
 
 - **Email**: hossainuddinahamad@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/hossain-uddin-805a872ba
-- **Facebook**: https://www.facebook.com/md.reyaan.399/
+- **Facebook**: https://www.facebook.com/HossainUddin0
 
 
 
